@@ -16,20 +16,6 @@ Aplicación web para gestionar tratamientos médicos personales con enfoque en a
 - Accesibilidad: diseñada para ser usable por personas con diversas necesidades.
 - Aplicación ligera: construida con React + Vite para un desarrollo rápido y una buena experiencia.
 
-## 📁 Archivos clave para GitHub
-
-Incluye estos archivos y carpetas en el repositorio:
-
-- `README.md`
-- `package.json`
-- `vite.config.js`
-- `.gitignore`
-- `src/`
-- `public/`
-- `index.html`
-
-> En GitHub, el `README.md` será la presentación principal del proyecto.
-
 ## 🧪 Cómo ejecutar la app
 
 ### Requisitos
@@ -95,17 +81,6 @@ app-clinica/
 - html2canvas
 - react-calendar
 - Ollama
-
-## 📌 Recomendación para LinkedIn
-
-### Título
-App Clínica - Seguimiento de Tratamiento Médico
-
-### Descripción breve
-Aplicación web para gestionar tratamientos médicos personales con calendario, tareas, PDF descargable y consultas de IA local.
-
-### Tecnologías
-React · Vite · Tailwind CSS · jsPDF · html2canvas · Ollama
 
 ### Valor agregado
 Privacidad local, accesibilidad y soporte de IA sin depender de servicios externos.
