@@ -1,6 +1,6 @@
 # App Clínica - Seguimiento de Tratamiento Médico
 
-Aplicación web española para gestionar tratamientos médicos personales con enfoque en accesibilidad, privacidad y procesamiento local.
+Aplicación web para gestionar tratamientos médicos personales con enfoque en accesibilidad, privacidad y procesamiento local.
 
 ## 🚀 Qué hace
 
